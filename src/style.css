@@ -1,8 +1,8 @@
-fieldset {
+.fieldset {
   margin-bottom: 20px;
 }
 
-div {
+.div {
   display: block;
   margin-bottom: 10px;
 }
